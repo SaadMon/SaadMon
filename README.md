@@ -19,7 +19,6 @@ I'm a Computer Engineering student at the Faculty of Sciences Dhar El Mahraz (FS
 - 🐼 **Pandas** & **NumPy** — data manipulation and analysis
 - ⚡ **FastAPI** — building APIs with Python
 - 🔗 **APIs** — consuming and designing web APIs
-- 🌱 **Git & GitHub** — version control and collaborative workflows
 
 ---
 
