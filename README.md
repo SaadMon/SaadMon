@@ -2,85 +2,122 @@
 
 # Hi, I'm Saad Mouncif 👋
 
-**Computer Engineering Student | Fès, Morocco**
+### Computer Engineering Student · Fès, Morocco
+
+![Status](https://img.shields.io/badge/Status-Seeking%20Internship-0A192F?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Web%20Development-0A192F?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Fès%2C%20Morocco-0A192F?style=for-the-badge)
 
 </div>
 
----
+<br>
 
-## About Me
+## 📌 About Me
 
-I'm a Computer Engineering student at the Faculty of Sciences Dhar El Mahraz (FSDM) in Fès, Morocco, currently looking for an internship, with a particular interest in web development. I enjoy building things end-to-end and I'm always working on strengthening my fundamentals in programming, databases, and software design while picking up the practical tools used in real-world development.
+> I'm a Computer Engineering student at the Faculty of Sciences Dhar El Mahraz (FSDM) in Fès, Morocco, currently looking for an internship — especially in web development. I enjoy building things end-to-end and I'm always working on strengthening my fundamentals in programming, databases, and software design while picking up the practical tools used in real-world development.
 
----
+<br>
 
-## What I'm Learning Now
+## 🌱 What I'm Learning Now
 
-- 🐼 **Pandas** & **NumPy** — data manipulation and analysis
-- ⚡ **FastAPI** — building APIs with Python
-- 🔗 **APIs** — consuming and designing web APIs
+<div align="center">
 
----
+![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A192F?style=flat-square&logo=fastapi&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-0A192F?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0A192F?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat-square&logo=github&logoColor=white)
 
-## Technical Skills
+</div>
+
+<br>
+
+## 🛠️ Technical Skills
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0A192F?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-0A192F?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0A192F?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=flat-square&logo=css3&logoColor=white)
+
+</div>
 
 **Databases**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-0A192F?style=flat-square&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0A192F?style=flat-square&logo=oracle&logoColor=white)
+
+</div>
 
 **Concepts & Areas**
 
-![OOP](https://img.shields.io/badge/OOP-003B57?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-003B57?style=flat-square)
-![Web Development](https://img.shields.io/badge/Web%20Development-003B57?style=flat-square)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-003B57?style=flat-square)
-![AI Basics](https://img.shields.io/badge/AI%20Basics-003B57?style=flat-square)
-![Project Management](https://img.shields.io/badge/Project%20Management-003B57?style=flat-square)
+<div align="center">
 
----
+![OOP](https://img.shields.io/badge/OOP-0A192F?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0A192F?style=flat-square)
+![Web Development](https://img.shields.io/badge/Web%20Development-0A192F?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0A192F?style=flat-square)
+![AI Basics](https://img.shields.io/badge/AI%20Basics-0A192F?style=flat-square)
+![Project Management](https://img.shields.io/badge/Project%20Management-0A192F?style=flat-square)
 
-## Featured Projects
+</div>
 
-> These are placeholder entries I'll update with real repository links as the projects progress.
+<br>
 
-- **Order Data Analysis with Pandas** — Exploring and analyzing order/sales data using Pandas.
-- **Student Data Analysis** — Analyzing student-related datasets to extract insights.
-- **First FastAPI API** — A first hands-on project building a REST API with FastAPI.
+## 💼 Featured Projects
 
----
+> Placeholder entries — to be updated with real repository links as these projects progress.
 
-## Education
+| Project | Description |
+|---|---|
+| **Order Data Analysis with Pandas** | Exploring and analyzing order/sales data using Pandas. |
+| **Student Data Analysis** | Analyzing student-related datasets to extract insights. |
+| **First FastAPI API** | A first hands-on project building a REST API with FastAPI. |
+
+<br>
+
+## 🎓 Education
+
+<table>
+<tr>
+<td>
 
 **Fundamental Bachelor's Degree in Computer Engineering**
 Faculty of Sciences Dhar El Mahraz (FSDM), Fès, Morocco
 *2022 – 2026*
 
----
+</td>
+</tr>
+</table>
 
-## Languages
+<br>
 
-- 🇲🇦 Arabic — Native
-- 🇫🇷 French — Intermediate
-- 🇬🇧 English — Fluent
+## 🌍 Languages
 
----
+| Language | Level |
+|---|---|
+| Arabic | Native |
+| French | Intermediate |
+| English | Fluent |
+
+<br>
 
 <div align="center">
 
-### Let's Connect
+## 🤝 Let's Connect
 
-I'm open to internship opportunities, especially in web development.
+Open to internship opportunities, especially in web development.
 Feel free to explore my repositories or reach out through GitHub.
+
+![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
