@@ -4,8 +4,7 @@
 
 ### Computer Engineering Student · Fès, Morocco
 
-![Status](https://img.shields.io/badge/Status-Seeking%20Internship-0A192F?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Web%20Development-0A192F?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Seeking%20Master-0A192F?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Fès%2C%20Morocco-0A192F?style=for-the-badge)
 
 </div>
