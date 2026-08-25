@@ -23,11 +23,8 @@
 <div align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=flat-square&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A192F?style=flat-square&logo=fastapi&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-0A192F?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A192F?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -106,7 +103,7 @@ Faculty of Sciences Dhar El Mahraz (FSDM), Fès, Morocco
 | Language | Level |
 |---|---|
 | Arabic | Native |
-| French | Intermediate |
+| French | Fluent |
 | English | Fluent |
 
 <br>
