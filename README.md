@@ -112,8 +112,8 @@ Faculty of Sciences Dhar El Mahraz (FSDM), Fès, Morocco
 
 ## 🤝 Let's Connect
 
-Open to internship opportunities, especially in web development.
-Feel free to explore my repositories or reach out through GitHub.
+Open to internship opportunities.
+Feel free to reach out through GitHub, or Gmail monsaad23@gmail.com or tel : +212772385276 .
 
 ![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white)
 
